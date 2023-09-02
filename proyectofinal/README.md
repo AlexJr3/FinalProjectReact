@@ -1,5 +1,5 @@
-Documentación del Proyecto de React - E-Commerce
-Resumen
+# Documentación del Proyecto de React - E-Commerce
+
 Este proyecto de React se enfoca en el desarrollo de una tienda en línea con las siguientes características principales:
 
 Navbar: Se ha creado una barra de navegación que permite a los usuarios acceder a las categorias de los productos, el carrito y el home clickeando el logo.
@@ -22,7 +22,7 @@ Clona el repositorio desde GitHub o crea un proyecto React nuevo utilizando Crea
 Instala las dependencias necesarias, como react-router-dom para la navegación y otras dependencias relacionadas con tu proyecto.
 npm install react-router-dom
 
-# Otras dependencias según las necesidades
+Otras dependencias según las necesidades
 
 Ejecución del Proyecto
 Una vez configurado el proyecto, puedes ejecutarlo utilizando el siguiente comando:
